@@ -24,27 +24,35 @@ pip install seaborn
 pip install scipy
 pip install matplotlib
 %matplotlib inline
-
 ```
-# Installing
-# Running the tests
-# Break down into end to end tests
-# And coding style tests
-# Deployment
-# Built With
-# Contributing
-# Versioning
-# Authors
-# License
-# Acknowledgments
-# Clone Repository
+## Installing
+## Running the tests
+## Break down into end to end tests
+## And coding style tests
+## Deployment
+## 🛠Built With
+
+* [Scikit-learn](https://scikit-learn.org/stable/) 
+## Contributing
+## Versioning
+## Authors
+## License
+## Acknowledgments
+## 🚀Clone Repository 
+```
+https://github.com/ynpreet/thesparksfoundation-projects
+```
+
 ## 📁 Dataset
 You can get the Dataset here
 
 1. [Task 1-Supervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/t1.csv) 
 2. [Task 2-UnSupervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/Iris.csv)
 # Working
-# And it's done!
+## 👏And it's done!
+
+- <details> <summary> 💬 Problem Solver. Passion Catalyst. Change Maker. Love simulating conversations especially if done over beer. I 'm looking to collaborate to work on ML projects😎 </summary> <a href="https://wa.me/919408377842" target="blank"><img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+</details>
 
 
 
@@ -138,16 +146,10 @@ This Repo Consists of some of the Tasks for The Sparks Foundation-Machine Learni
 
 
 
-## 🚀Clone Repository 
-```
-https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science.git
-```
 
 
 
-## 🛠Built With
 
-* [Scikit-learn](https://scikit-learn.org/stable/) 
 
  
 
@@ -163,9 +165,7 @@ or
 Spyder
 ```
 
-## 👏And it's done!
 
-Feel free to mail me for any doubts/query ✉️ aparajitad60@gmail.com
 
 
 ## 💃Authors
