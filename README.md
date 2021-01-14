@@ -38,7 +38,6 @@ pip install matplotlib
 ## 💃Authors
 
 * **Preet Mehta**  
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Handshake.gif" height="30px"></h4> <br>
 
 <a href="https://www.linkedin.com/in/preetmehta/">
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
@@ -50,7 +49,7 @@ pip install matplotlib
 
 <a href="https://www.youtube.com/channel/UCCcw6HxUkkfrlKn7-6SszDQ/featured" target="blank">
   <img align="left" src="https://github.com/ynpreet/Ynpreet/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
-</a>
+</a><br>
 ## 👀License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
