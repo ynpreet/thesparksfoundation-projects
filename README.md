@@ -1,6 +1,73 @@
-# Project Title
-One Paragraph of project description goes here
+# The Sparks Foundation - Machine Learning and Data Science Project Tasks
+This Repo Consists of some of the Tasks for The Sparks Foundation-Machine Learning and Data Science Internship, containing Supervised and Unsupervised Machine Learning Techniques to solve A ML Problem in a Systematic Way.
 
+## About The Sparks Foundation
+![](img1.png)
+
+[The Sparks Foundation](https://thesparksfoundationsingapore.org/)  mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
+
+Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
+
+## Getting Started
+Welcome to my Getting Started Guide. Looking for a Data Science Projects Every Beginner should add to the Portfolio, that enhances and improves your knowledge in the data science domain and is easy to get started with? You’ve come to the right place. I am Preet Mehta, an aspiring data scientist, data enthusiast and a professional graphics designer since 2014. Here you will find the projects in 3 categories:  
+1. Beginner
+2. Intermediate
+3. Advanced
+
+## 🔑Prerequisites
+
+```
+pip install numpy
+pip install pandas
+pip install jupyter
+pip install seaborn
+pip install scipy
+pip install matplotlib
+%matplotlib inline
+
+```
+# Installing
+# Running the tests
+# Break down into end to end tests
+# And coding style tests
+# Deployment
+# Built With
+# Contributing
+# Versioning
+# Authors
+# License
+# Acknowledgments
+# Clone Repository
+## 📁 Dataset
+You can get the Dataset here
+
+1. [Task 1-Supervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/t1.csv) 
+2. [Task 2-UnSupervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/Iris.csv)
+# Working
+# And it's done!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -57,23 +124,18 @@ Hat tip to anyone whose code was used
 Inspiration
 etc
 
-
+---------------------------------------------------------------------------------------
 
 
 
 The Sparks Foundation - Machine Learning and Data Science Project Tasks
-This Repo Consists of some of the Tasks for The Sparks Foundation-Machine Learning and Data Science Internship, containing Supervised and Unsupervised Machine Learning Techniques to solve A ML Problem in a Systematic Way.
+
 
 # The Sparks Foundation - Machine Learning and Data Science Project Tasks
 
 This Repo Consists of some of the Tasks for The Sparks Foundation-Machine Learning and Data Science Internship, containing Supervised and Unsupervised Machine Learning Techniques to solve A ML Problem in a Systematic Way.
 
-# About The Sparks Foundation
-![](img1.png)
 
-[The Sparks Foundation](https://thesparksfoundationsingapore.org/)  mission is to inspire students, help them innovate, and let them integrate to build the next generation humankind. To inspire, motivate, and encourage students to learn, create, and help build a better society. To teach new ways of thinking, to innovate and solve the problems on their own. We help the students to integrate and help each other, learn from each other, and do well together.
-
-Their Vision Statement : A world of enabled and connected little minds, building future. Our Mission Statement To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 
 ## 🚀Clone Repository 
@@ -81,26 +143,13 @@ Their Vision Statement : A world of enabled and connected little minds, building
 https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science.git
 ```
 
-## 🔑Prerequisites
 
-```
-pip install jupyter
-pip install seaborn
-pip install pandas
-pip install scipy
-pip install matplotlib
-
-```
 
 ## 🛠Built With
 
 * [Scikit-learn](https://scikit-learn.org/stable/) 
 
-## 📁 Dataset
-You can get the Dataset here
-
-1. [Task 1-Supervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/t1.csv) 
-2. [Task 2-UnSupervised Learning](https://github.com/aparajitad60/The-Sparks-Foundation---Machine-Learning-Data-Science/blob/master/Iris.csv) 
+ 
 
 ## 💡Working 
 
